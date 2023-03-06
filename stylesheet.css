@@ -1,0 +1,16 @@
+
+.btn:hover{
+    background-color: #0A3F77;
+  box-shadow: 1px 3px 5px  rgb(109, 108, 108);
+}
+.data{
+    width: 85%;
+}
+
+.websitelist{
+
+    background-image: linear-gradient(#EEEEEE,white);
+}
+input:hover{
+    box-shadow: 0 0 5px rgb(176, 176, 176);
+}
